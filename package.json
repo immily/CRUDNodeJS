@@ -1,0 +1,11 @@
+{
+  "name": "laForge-Backend",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.4",
+    "mysql": "^2.14.1",
+    "request": "^2.81.0"
+  }
+}
